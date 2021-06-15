@@ -1,6 +1,6 @@
 
 body{
-  width: 100%;
+
   margin: 0;
   text-align: center;
   font-family: 'Sacramento', cursive;
@@ -21,33 +21,26 @@ p{
 .top-c{
   background-color: #71c9ce;
   position: relative;
-  padding-top: 100px;
+  padding-top: 200px;
+  padding-bottom: 100px;
 }
 
 .middle-c{
-  background-color: red;
-  width: 300px;
-  height: 300px;
-  margin-left: 320px;
-  border: solid 10px;
+
 }
 
 .bottom-c{
-  background-color: blue;
-  width: 300px;
-  height: 300px;
-  margin-left: 640px;
-  border: solid 10px;
+  
 }
 
 .t-cloud{
   position: absolute;
   right: 300px;
-  top: 50px;
+  top: 100px;
 }
 
 .b-cloud{
   position: absolute;
   left: 300px;
-  bottom: 300px;
+  bottom: 400px;
 }
